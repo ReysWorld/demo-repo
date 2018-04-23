@@ -1,2 +1,2 @@
 # hello-world
-This is just a little demo repository.
+This is my little demo repository. Like a digital test site. Where I test things. And sites.

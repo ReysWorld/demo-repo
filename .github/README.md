@@ -1,6 +1,6 @@
-[![Demo Badge](https://img.shields.io/badge/Demo-active-brightgreen)](https://github.com/ReysWorld/demo-repo/)
+[![Demo Badge](https://img.shields.io/badge/Repository-Demo-dodgerblue)](https://github.com/ReysWorld/demo-repo/)
 
-[![Demo Workflow](https://github.com/ReysWorld/demo-repo/actions/workflows/demo-workflow.yml/badge.svg)](https://github.com/ReysWorld/demo-repo/actions/workflows/demo-workflow.yml)
+[![Demo Workflow](https://github.com/ReysWorld/demo-repo/actions/workflows/demo-workflow.yml/badge.svg?branch=master)](https://github.com/ReysWorld/demo-repo/actions/workflows/demo-workflow.yml)
 
 # Demo Repository
 
